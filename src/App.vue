@@ -6,14 +6,6 @@ import Navbar from "./components/layouts/navbar.vue"
 <template>
   <Navbar />
   <RouterView />
-
-  <!-- panding start -->
-  <!-- <header>
-      <nav>
-        <RouterLink to="/">Home</RouterLink>
-      </nav>
-  </header> -->
-  <!-- panding end -->
 </template>
 
 <style>
